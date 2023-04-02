@@ -1,0 +1,98 @@
+
+body{
+    background-color: #18dcff;
+}
+h1{
+    text-align: center;
+    background-color: #ff3838;
+}
+h2{
+    margin-top: -55px;
+}
+.main-menu ul li a{
+    text-decoration: none;
+   
+}
+.banner-img img{
+    width: 100%;
+    height: 600px;
+}
+.banner-img h2{
+    text-align: center;
+    margin: -290px;
+    color: #1f1717;
+}
+
+.banner-img p{
+    text-align: justify;
+    margin-left: 400px;
+    margin-top: 340px;
+    font-size: px;
+    font-style: italic;
+}
+.banner-img button{
+    margin-left: 600px;
+    font-size: 20px;
+    background-color: #ff9f1a;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+.blog-1 img{
+    width: 500px;
+    margin-top: 150px;
+    margin-left: 20px;
+    border: 10px solid #7158e2;
+    border-radius: 50px 0px 50px 0px;
+}
+.blog-1 p{
+    margin-left: 20px;
+    font-size: large;
+}
+.blog-1 button{
+    margin-left: 140px;
+    font-size: 20px;
+    background-color: #7d5fff;
+    border: 3px solid black;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.blog-2{
+    margin-left: 700px;
+    margin-top: -803px;
+}
+.blog-2 img{
+    width: 500px;
+    margin-top: 150px;
+    margin-left: 20px;
+    border: 10px solid #7158e2;
+    border-radius: 50px 0px 50px 0px;
+}
+.blog-2 p{
+    margin-left: 20px;
+    font-size: large;
+}
+.blog-2 button{
+    margin-left: 140px;
+    font-size: 20px;
+    background-color: #7d5fff;
+    border: 3px solid black;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.sarvice-1{
+    background-color: #17c0eb;
+    border: 2px solid black;
+    margin-top: 20px;
+}
+.sarvice-1 h3{
+    text-align: center;
+}
+.sarvice-1 p{
+    margin: 15px;
+}
+#footer{
+    text-align: center;
+    background-color: rgb(9, 104, 104);
+    margin-top: 10px;
+    padding: 10px;
+}
