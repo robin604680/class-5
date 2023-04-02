@@ -90,7 +90,10 @@ h2{
 .sarvice-1 p{
     margin: 15px;
 }
-#footer{
+.form{
+    margin-top: 5px;
+}
+.footer{
     text-align: center;
     background-color: rgb(9, 104, 104);
     margin-top: 10px;
